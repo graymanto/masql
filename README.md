@@ -1,0 +1,2 @@
+# masql
+Makes SQL
